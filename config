@@ -1,0 +1,11 @@
+project_root/
+│
+├── app.py
+├── about_me.py
+├── requirements.txt
+├── timeline.json
+│
+└── config/
+    ├── personal_info.txt
+    ├── system_prompt.txt
+    └── skills.json
